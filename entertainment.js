@@ -24,7 +24,7 @@ function showNews(data) {
         <div class="card-body">
           <h5 class="card-title">${element["title"]}</h5>
           <p class="card-text">${element["content"]}</p>
-          <a href="${element["url"]}" target="_blank"class="btn btn-primary">Read more here</a>
+          <a href="${element["url"]}" target="_blank"class="btn btn-primary">Read more </a>
         </div>
       </div>`
         }
